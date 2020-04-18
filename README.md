@@ -1,1 +1,1 @@
-# hello-world
+# hello-world: I am alw school graduate with a few years of experience as a legal advisor holding capacity building training for judicial professionals of one of the famous war-hit countries, Afgahnistan. I am now, though, residing in the US and starting my life pretty much from scratch. Hopfully this course, CS50 for lawyers, will help me with my new career here in the USA. 
